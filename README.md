@@ -20,4 +20,6 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
 
+## Diagrama de Classes
 
+![img_1.png](img_1.png)
